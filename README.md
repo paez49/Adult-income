@@ -17,6 +17,10 @@ These are the demographics and other features to describe a person
 We can explore the possibility in predicting income level based on the individual’s personal information.
 
 
+## General objective
+
+The general objective of this project is to predict whether a person makes over 50K a year or not.
+
 ## Members:
 * [Camilo Nossa](https://github.com/alejandronoss1017)
 * [Carlos Rojas](https://github.com/carlosantiagorojas)
