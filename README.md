@@ -9,10 +9,10 @@ Data extracted from [Kaggle](https://www.kaggle.com/datasets/wenruliu/adult-inco
 - Number of attributes: 14
 
 ## General objective
-The general objective of this project is to predict whether a person makes over 50K a year or not.
+The general objective of this project is to predict whether a person makes over 50K a year or not based on the individual’s characteristics.
 
 ### Specific objectives
-- Predict the income level based on the individual’s characteristics.
+- Predict the income level by genre, age and race.
 - Use machine learning algorithms to predict the income level.
 - Compare the performance of different machine learning algorithms.
 
