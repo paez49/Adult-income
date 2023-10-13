@@ -1,29 +1,20 @@
 # Adult income
-
-An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
-
-This is a widely cited KNN dataset. I encountered it during my course, and I wish to share it here because it is a good starter example for data pre-processing and machine learning practices.
+Machining learning algorithms performed on an adult income dataset. It shows individual’s annual income results from various factors. Thar are influenced by some factores like individual’s education level, age, gender, occupation, and etc.
 
 Data extracted from [Kaggle](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset).
 
-## Fields
-The dataset contains 16 columns
-Target filed: Income 
-
-The income is divide into two classes: <=50K and >50K
-
-Number of attributes: 14
-
-These are the demographics and other features to describe a person
-
-We can explore the possibility in predicting income level based on the individual’s personal information.
-
+## Datset fields specification
+- The dataset contains 16 columns
+- The income is divide into two classes: <=50K and >50K
+- Number of attributes: 14
 
 ## General objective
+The general objective of this project is to predict whether a person makes over 50K a year or not based on the individual’s characteristics.
 
-The general objective of this project is to predict whether a person makes over 50K a year or not.
-
-
+### Specific objectives
+- Predict the income level by genre, age and race.
+- Use machine learning algorithms to predict the income level.
+- Compare the performance of different machine learning algorithms.
 
 ## Members
 * [Camilo Nossa](https://github.com/alejandronoss1017)
